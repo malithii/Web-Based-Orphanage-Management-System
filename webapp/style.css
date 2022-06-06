@@ -1,0 +1,47 @@
+.topic{
+    color:   #283747;
+    font-size: 25;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.p{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.h2{
+    color:   #283747;
+    font-size: 25;
+    font-family: sans-serif;
+    margin-left: 13%;
+}
+
+.container1{
+    margin-left: 8%;
+}
+
+.container2{
+    margin-left: 13%;
+    margin-right: 0%;
+}
+
+.p1{
+    display: inline-block;
+    margin-right: 350;
+    color: #283747;
+    font-family: sans-serif;
+    font-size: 25;
+
+}
+
+a:link {
+    color: #283747;
+}
+
+.container{
+    color: #283747;
+    font-family: sans-serif;
+    font-size: 25;
+    text-align: center;
+}
